@@ -1,0 +1,1 @@
+{"uuid":"c9402d8f-1825-402b-a854-2a07bd6fe149","name":"com.qa.testscripts.SwagLogin_01","children":["193132e7-fb96-468a-9852-ce5391dba41e"],"befores":[],"afters":[{"name":"teardown","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1704172723090,"stop":1704172723091}],"start":1704172723039,"stop":1704172723103}
